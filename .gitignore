@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+
+# Vim
+*.swp
+
+# Kubernetes secrets (never commit real secrets)
+secret.yaml
+secrets.yaml
+*.secret.yaml
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
